@@ -1,0 +1,37 @@
+{
+  "restaurants": [
+    {
+      "id": "1",
+      "name": "MC donlas",
+      "cuisine": "Italian",
+      "address": "123 Main St",
+      "rating": 4.5,
+      "email": "mc.donlas@example.com"
+    },
+    {
+      "id": "2",
+      "name": "Restaurant B",
+      "cuisine": "Mexican",
+      "address": "456 Elm St",
+      "rating": 4,
+      "email": "restaurant.b@example.com"
+    },
+    {
+      "id": "3",
+      "name": "Restaurant C",
+      "cuisine": "Chinese",
+      "address": "789 Oak St",
+      "rating": 4.2,
+      "email": "restaurant.c@example.com"
+    },
+    {
+      "id": 4,
+      "name": "Restaurant D",
+      "cuisine": "ice cream",
+      "address": "2342 zinc St",
+      "rating": 4.8,
+      "email": "restaurant.d@example.com"
+    }
+    
+  ]
+}
